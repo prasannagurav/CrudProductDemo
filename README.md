@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+ git commit -m "First Commit"
+[master (root-commit) 5ea380b] First Commit
+ 42 files changed, 14520 insertions(+)
+ create mode 100644 .browserslistrc
+ create mode 100644 .editorconfig
+ create mode 100644 .gitignore
+ create mode 100644 README.md
+ create mode 100644 angular.json
+ create mode 100644 e2e/protractor.conf.js
+ create mode 100644 e2e/src/app.e2e-spec.ts
+ create mode 100644 e2e/src/app.po.ts

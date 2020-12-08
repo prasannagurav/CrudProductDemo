@@ -1,0 +1,12 @@
+<h1>Welcome to ProductCRUD Application</h1>
+<a routerLink="ptab">Display Table</a>
+<a routerLink="plist">Display List</a>
+<hr>
+<form>
+    Id:<input type="text" name="id" ngModel required><br>
+    <div *ngIf="id.">
+
+    </div>
+    Name<input type="text" name="nm" ngModel required minlength="3"><br>
+    <button type="submit" name="btn">Submit</button>
+</form>
